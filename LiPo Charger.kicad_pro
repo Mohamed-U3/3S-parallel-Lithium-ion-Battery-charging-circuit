@@ -60,7 +60,7 @@
       ],
       "drc_exclusions": [
         [
-          "silk_edge_clearance|72500000|60500000|f081bc3b-8083-4087-b212-4a8934c413d2|9e086408-692f-4229-9c43-05363998293e",
+          "silk_edge_clearance|72500000|60500000|403e22f5-85d2-4adb-a4b4-956f76aec0fa|9e086408-692f-4229-9c43-05363998293e",
           ""
         ],
         [
@@ -208,7 +208,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
